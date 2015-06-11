@@ -1,0 +1,11 @@
+#divBody{
+	margin:0 auto;
+	text-align: center;
+}
+
+#divMap{
+	border:1px solid #EEEEEE;
+	margin:0 auto;
+	width:800px;
+	height:1000px;
+}
